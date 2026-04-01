@@ -1,2 +1,3 @@
 # model-api
-REST API
+
+Start API Chat-like projects quickly
