@@ -1,6 +1,6 @@
 import { HTML } from './libs/afrontend/index.js';
 import { SelectElement } from './select.component.js';
-import { InputsComponent } from '../inputs.component.js';
+import { InputsComponent } from './inputs.component.js';
 import { ButtonElement } from '../elements/button.element.js';
 
 export class FormElement extends HTML {
